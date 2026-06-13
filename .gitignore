@@ -6,6 +6,7 @@
 *.pem
 *.p12
 *.pfx
+password_*.csv
 id_rsa
 id_ed25519
 
